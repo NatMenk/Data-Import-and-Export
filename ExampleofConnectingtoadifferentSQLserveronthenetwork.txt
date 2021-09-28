@@ -1,0 +1,5 @@
+SELECT  a.* from
+ OPENROWSET ('SQLNCLI', 'Server=VM-SQLVS-129;Uid=sa;Pwd=SQL2019$F@ll2020;database=AdventureWorks2019',
+ 'SELECT *
+   FROM AdventureWorks2019.dbo.AWBuildVersion
+   ORDER BY 1' ) as a

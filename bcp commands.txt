@@ -1,0 +1,166 @@
+
+C:\bcp>bcp AdventureWorks2014.Sales.Currency out Currency.txt -T -c -S VM-ICTTECH_100
+
+Starting copy...
+
+105 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 15     Average : (7000.00 rows per sec.)
+
+C:\bcp>bcp AdventureWorks2014.Production.TransactionHistory out TransHist.txt -U sa -c -S VM-ICTTECH_100
+Password:
+
+Starting copy...
+1000 rows successfully bulk-copied to host-file. Total received: 1000
+1000 rows successfully bulk-copied to host-file. Total received: 2000
+1000 rows successfully bulk-copied to host-file. Total received: 3000
+1000 rows successfully bulk-copied to host-file. Total received: 4000
+1000 rows successfully bulk-copied to host-file. Total received: 5000
+1000 rows successfully bulk-copied to host-file. Total received: 6000
+1000 rows successfully bulk-copied to host-file. Total received: 7000
+1000 rows successfully bulk-copied to host-file. Total received: 8000
+1000 rows successfully bulk-copied to host-file. Total received: 9000
+1000 rows successfully bulk-copied to host-file. Total received: 10000
+1000 rows successfully bulk-copied to host-file. Total received: 11000
+1000 rows successfully bulk-copied to host-file. Total received: 12000
+1000 rows successfully bulk-copied to host-file. Total received: 13000
+1000 rows successfully bulk-copied to host-file. Total received: 14000
+1000 rows successfully bulk-copied to host-file. Total received: 15000
+1000 rows successfully bulk-copied to host-file. Total received: 16000
+1000 rows successfully bulk-copied to host-file. Total received: 17000
+1000 rows successfully bulk-copied to host-file. Total received: 18000
+1000 rows successfully bulk-copied to host-file. Total received: 19000
+1000 rows successfully bulk-copied to host-file. Total received: 20000
+1000 rows successfully bulk-copied to host-file. Total received: 21000
+1000 rows successfully bulk-copied to host-file. Total received: 22000
+1000 rows successfully bulk-copied to host-file. Total received: 23000
+1000 rows successfully bulk-copied to host-file. Total received: 24000
+1000 rows successfully bulk-copied to host-file. Total received: 25000
+1000 rows successfully bulk-copied to host-file. Total received: 26000
+1000 rows successfully bulk-copied to host-file. Total received: 27000
+1000 rows successfully bulk-copied to host-file. Total received: 28000
+1000 rows successfully bulk-copied to host-file. Total received: 29000
+1000 rows successfully bulk-copied to host-file. Total received: 30000
+1000 rows successfully bulk-copied to host-file. Total received: 31000
+1000 rows successfully bulk-copied to host-file. Total received: 32000
+1000 rows successfully bulk-copied to host-file. Total received: 33000
+1000 rows successfully bulk-copied to host-file. Total received: 34000
+1000 rows successfully bulk-copied to host-file. Total received: 35000
+1000 rows successfully bulk-copied to host-file. Total received: 36000
+1000 rows successfully bulk-copied to host-file. Total received: 37000
+1000 rows successfully bulk-copied to host-file. Total received: 38000
+1000 rows successfully bulk-copied to host-file. Total received: 39000
+1000 rows successfully bulk-copied to host-file. Total received: 40000
+1000 rows successfully bulk-copied to host-file. Total received: 41000
+1000 rows successfully bulk-copied to host-file. Total received: 42000
+1000 rows successfully bulk-copied to host-file. Total received: 43000
+1000 rows successfully bulk-copied to host-file. Total received: 44000
+1000 rows successfully bulk-copied to host-file. Total received: 45000
+1000 rows successfully bulk-copied to host-file. Total received: 46000
+1000 rows successfully bulk-copied to host-file. Total received: 47000
+1000 rows successfully bulk-copied to host-file. Total received: 48000
+1000 rows successfully bulk-copied to host-file. Total received: 49000
+1000 rows successfully bulk-copied to host-file. Total received: 50000
+1000 rows successfully bulk-copied to host-file. Total received: 51000
+1000 rows successfully bulk-copied to host-file. Total received: 52000
+1000 rows successfully bulk-copied to host-file. Total received: 53000
+1000 rows successfully bulk-copied to host-file. Total received: 54000
+1000 rows successfully bulk-copied to host-file. Total received: 55000
+1000 rows successfully bulk-copied to host-file. Total received: 56000
+1000 rows successfully bulk-copied to host-file. Total received: 57000
+1000 rows successfully bulk-copied to host-file. Total received: 58000
+1000 rows successfully bulk-copied to host-file. Total received: 59000
+1000 rows successfully bulk-copied to host-file. Total received: 60000
+1000 rows successfully bulk-copied to host-file. Total received: 61000
+1000 rows successfully bulk-copied to host-file. Total received: 62000
+1000 rows successfully bulk-copied to host-file. Total received: 63000
+1000 rows successfully bulk-copied to host-file. Total received: 64000
+1000 rows successfully bulk-copied to host-file. Total received: 65000
+1000 rows successfully bulk-copied to host-file. Total received: 66000
+1000 rows successfully bulk-copied to host-file. Total received: 67000
+1000 rows successfully bulk-copied to host-file. Total received: 68000
+1000 rows successfully bulk-copied to host-file. Total received: 69000
+1000 rows successfully bulk-copied to host-file. Total received: 70000
+1000 rows successfully bulk-copied to host-file. Total received: 71000
+1000 rows successfully bulk-copied to host-file. Total received: 72000
+1000 rows successfully bulk-copied to host-file. Total received: 73000
+1000 rows successfully bulk-copied to host-file. Total received: 74000
+1000 rows successfully bulk-copied to host-file. Total received: 75000
+1000 rows successfully bulk-copied to host-file. Total received: 76000
+1000 rows successfully bulk-copied to host-file. Total received: 77000
+1000 rows successfully bulk-copied to host-file. Total received: 78000
+1000 rows successfully bulk-copied to host-file. Total received: 79000
+1000 rows successfully bulk-copied to host-file. Total received: 80000
+1000 rows successfully bulk-copied to host-file. Total received: 81000
+1000 rows successfully bulk-copied to host-file. Total received: 82000
+1000 rows successfully bulk-copied to host-file. Total received: 83000
+1000 rows successfully bulk-copied to host-file. Total received: 84000
+1000 rows successfully bulk-copied to host-file. Total received: 85000
+1000 rows successfully bulk-copied to host-file. Total received: 86000
+1000 rows successfully bulk-copied to host-file. Total received: 87000
+1000 rows successfully bulk-copied to host-file. Total received: 88000
+1000 rows successfully bulk-copied to host-file. Total received: 89000
+1000 rows successfully bulk-copied to host-file. Total received: 90000
+1000 rows successfully bulk-copied to host-file. Total received: 91000
+1000 rows successfully bulk-copied to host-file. Total received: 92000
+1000 rows successfully bulk-copied to host-file. Total received: 93000
+1000 rows successfully bulk-copied to host-file. Total received: 94000
+1000 rows successfully bulk-copied to host-file. Total received: 95000
+1000 rows successfully bulk-copied to host-file. Total received: 96000
+1000 rows successfully bulk-copied to host-file. Total received: 97000
+1000 rows successfully bulk-copied to host-file. Total received: 98000
+1000 rows successfully bulk-copied to host-file. Total received: 99000
+1000 rows successfully bulk-copied to host-file. Total received: 100000
+1000 rows successfully bulk-copied to host-file. Total received: 101000
+1000 rows successfully bulk-copied to host-file. Total received: 102000
+1000 rows successfully bulk-copied to host-file. Total received: 103000
+1000 rows successfully bulk-copied to host-file. Total received: 104000
+1000 rows successfully bulk-copied to host-file. Total received: 105000
+1000 rows successfully bulk-copied to host-file. Total received: 106000
+1000 rows successfully bulk-copied to host-file. Total received: 107000
+1000 rows successfully bulk-copied to host-file. Total received: 108000
+1000 rows successfully bulk-copied to host-file. Total received: 109000
+1000 rows successfully bulk-copied to host-file. Total received: 110000
+1000 rows successfully bulk-copied to host-file. Total received: 111000
+1000 rows successfully bulk-copied to host-file. Total received: 112000
+1000 rows successfully bulk-copied to host-file. Total received: 113000
+
+113443 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 656    Average : (172931.41 rows per sec.)
+
+C:\bcp>bcp AdventureWorks2014.Sales.Current_Input in Currency.txt -S VM-ICTTECH_100 -T -c
+SQLState = S0002, NativeError = 208
+Error = [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Invalid object name 'AdventureWorks2014.Sales.Current_Input'.
+SQLState = 37000, NativeError = 11529
+Error = [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]The metadata could not be determined because every code path results in an error; see previous errors for some of these.
+
+C:\bcp>bcp AdventureWorks2014.Sales.Currency_Input in Currency.txt -S VM-ICTTECH_100 -T -c
+
+Starting copy...
+
+105 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 1      Average : (105000.00 rows per sec.)
+
+C:\bcp>bcp "SELECT FirstName, LastName FROM Person.Person WHERE LastName = 'Smith'" queryout PersonNames.txt -U sa -c -S VM-ICTTECH_100
+Password:
+
+Starting copy...
+SQLState = S0002, NativeError = 208
+Error = [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Invalid object name 'Person.Person'.
+SQLState = S1000, NativeError = 0
+Error = [Microsoft][ODBC Driver 13 for SQL Server]Unable to resolve column level collations
+
+BCP copy out failed
+
+C:\bcp>bcp "SELECT FirstName, LastName FROM AdventureWorks2014.Person.Person WHERE LastName = 'Smith'" queryout PersonNames.txt -U sa -c -S VM-ICTTECH_100
+Password:
+
+Starting copy...
+
+103 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 15     Average : (6866.67 rows per sec.)
+
+C:\bcp>
